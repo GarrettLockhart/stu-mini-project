@@ -40,7 +40,7 @@ a {
 /* Showcase */
 
 .showcase {
-  background-image: url(/images/bg-image.jpg);
+  background-image: url(../images/bg-image.jpg);
   background-position: center center;
   background-size: cover;
   height: 400px;
